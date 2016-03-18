@@ -1,0 +1,14 @@
+[default]
+username = 
+password = 
+wiki_url = 
+redmine_url = 
+redmine_api_key = 
+
+[drucksachen]
+imaps_server = 
+imaps_port = 
+username = 
+password = 
+imaps_folder = INBOX/drucksachen_opal
+imaps_folder_read = INBOX/drucksachen_opal/read
